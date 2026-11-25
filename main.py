@@ -1,6 +1,6 @@
 # Output dad joke entry
 import os
-joke = "I told my boss I'm reading a book about anti-gravity. He said put it down and fix the printer."
+joke = "I told my doctor that I broke my arm in two places. He told me to stop going to those places."
 out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 if not os.path.exists(out_dir):
     out_dir = "."

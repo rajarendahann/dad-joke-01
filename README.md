@@ -6,6 +6,8 @@
 
 A one-line dad joke program: writes the joke to $MAKEFUN_OUTPUT_DIR/entry.txt.
 
+Pun structure: Literal vs. positional play on "places".
+
 ## Run it
 
 ```sh
